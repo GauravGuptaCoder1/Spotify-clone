@@ -54,10 +54,8 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone (https://github.com/GauravGuptaCoder1/Spotify-clone.git)
 ```
-
-Replace `<your-repository-url>` with your actual GitHub repository URL.
 
 ### 2. Navigate to the Project Folder
 
